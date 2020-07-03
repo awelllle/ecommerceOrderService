@@ -1,6 +1,6 @@
 # Demo Ecommerce Order service
 
-This demo orders microservice is for a demo ecommerce application. It takes care of everything that has to do with orders. Placing an order, cancelling an order etc.
+This demo order microservice is for a demo ecommerce application. It takes care of everything that has to do with orders; Placing an order, cancelling an order etc.
 
 ## Running it
 
